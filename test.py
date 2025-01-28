@@ -2,7 +2,6 @@ import os
 
 a=0
 
-
 def xyz():
     global a
     a+=1
